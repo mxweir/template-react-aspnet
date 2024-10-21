@@ -1,5 +1,5 @@
-# template-react-nodejs
-Template for new React.js Nodejs Projects.
+# template-react-aspnet
+Template for new React.js ASP.NET Projects.
 
 ## Voraussetzungen
 
